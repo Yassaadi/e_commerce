@@ -12,4 +12,6 @@ Data source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 ![Diapositive9](https://github.com/Yassaadi/e_commerce/assets/106546639/4d6cb009-5937-4c68-94b1-3a2d4f44553b)
 ![Diapositive10](https://github.com/Yassaadi/e_commerce/assets/106546639/4f6918df-c47d-46cb-af68-366db013663a)
 ![Diapositive11](https://github.com/Yassaadi/e_commerce/assets/106546639/fc234f70-9532-4ba1-bb0b-0661ab9ff8f4)
+![Assaadi_Yassine_4_presentation_m112022  Auto-saved](https://github.com/Yassaadi/e_commerce/assets/106546639/576ddc91-9fc8-4633-a0ab-d6b70e2b5baf)
+![Assaadi_Yassine_4_presentation_m11 2022  Auto-saved](https://github.com/Yassaadi/e_commerce/assets/106546639/798f7663-0654-4360-984a-3d973be853ee)
 ![Diapositive12](https://github.com/Yassaadi/e_commerce/assets/106546639/3d1a47f5-7fcf-4761-9242-a9262e38df37)
