@@ -10,7 +10,8 @@ The goal is to understand the different types of users based on their behavior a
 Provide the marketing team with an actionable description of the segmentation and its underlying logic for optimal utilization. 
 Propose a maintenance contract based on an analysis of the stability of the segments over time.
 
-![Diapositive1](https://github.com/Yassaadi/e_commerce/assets/106546639/09a62143-e7a5-4bce-b3e2-7cdbafdba9a7)
+# Costumers segmentation: E-commerce site of Olist
+
 ![Diapositive2](https://github.com/Yassaadi/e_commerce/assets/106546639/07d84c61-f326-452d-bf0e-031a6dd7b7ad)
 ![Diapositive3](https://github.com/Yassaadi/e_commerce/assets/106546639/d6a798dc-bd1a-404f-97cb-d96b7fcc5f65)
 ![Diapositive7](https://github.com/Yassaadi/e_commerce/assets/106546639/d84db94b-bf46-4c03-92c1-1d4c62c5639d)
