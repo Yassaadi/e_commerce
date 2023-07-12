@@ -1,9 +1,3 @@
-# e_commerce
-
-Yassine Assaadi: ecommerce clients segmentation project
-
-Data source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
-
 # Objective
 The project objective is to provide Olist's e-commerce teams with a customer segmentation that they can use for their daily communication campaigns.
 The goal is to understand the different types of users based on their behavior and personal data.
